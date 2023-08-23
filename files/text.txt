@@ -1,0 +1,4 @@
+Original: New file content
+
+New: New file content
+ New file content
